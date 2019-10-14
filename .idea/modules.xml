@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Redis/Redis.iml" filepath="$PROJECT_DIR$/Redis/Redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient/httpclient.iml" filepath="$PROJECT_DIR$/httpclient/httpclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/json_news/json_news.iml" filepath="$PROJECT_DIR$/json_news/json_news.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msc.iml" filepath="$PROJECT_DIR$/msc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_Lucene_solr/msg_Lucene_solr.iml" filepath="$PROJECT_DIR$/msg_Lucene_solr/msg_Lucene_solr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_api/msg_api.iml" filepath="$PROJECT_DIR$/msg_api/msg_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_client/msg_client.iml" filepath="$PROJECT_DIR$/msg_client/msg_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_dept1/msg_dept1.iml" filepath="$PROJECT_DIR$/msg_dept1/msg_dept1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_dept2/msg_dept2.iml" filepath="$PROJECT_DIR$/msg_dept2/msg_dept2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_elasticsearch/msg_elasticsearch.iml" filepath="$PROJECT_DIR$/msg_elasticsearch/msg_elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_eureka/msg_eureka.iml" filepath="$PROJECT_DIR$/msg_eureka/msg_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_eureka1/msg_eureka1.iml" filepath="$PROJECT_DIR$/msg_eureka1/msg_eureka1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_hystrix/msg_hystrix.iml" filepath="$PROJECT_DIR$/msg_hystrix/msg_hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msg_zuul/msg_zuul.iml" filepath="$PROJECT_DIR$/msg_zuul/msg_zuul.iml" />
+    </modules>
+  </component>
+</project>

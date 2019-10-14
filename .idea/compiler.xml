@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="httpclient" />
+        <module name="httpget" />
+        <module name="java" />
+        <module name="json_news" />
+        <module name="msg_api" />
+        <module name="msg_client" />
+        <module name="msg_dept" />
+        <module name="msg_dept1" />
+        <module name="msg_dept2" />
+        <module name="msg_elasticsearch" />
+        <module name="msg_eureka" />
+        <module name="msg_eureka1" />
+        <module name="msg_hystrix" />
+        <module name="msg_Lucene_solr" />
+        <module name="msg_zuul" />
+        <module name="Redis" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="httpclient" target="1.8" />
+      <module name="httpget" target="1.8" />
+      <module name="java" target="1.8" />
+      <module name="json_news" target="1.8" />
+      <module name="msc" target="1.8" />
+      <module name="msg_api" target="1.8" />
+      <module name="msg_client" target="1.8" />
+      <module name="msg_consume" target="1.8" />
+      <module name="msg_dept1" target="1.8" />
+      <module name="msg_dept2" target="1.8" />
+      <module name="msg_elasticsearch" target="1.8" />
+      <module name="msg_eureka" target="1.8" />
+      <module name="msg_eureka1" target="1.8" />
+      <module name="msg_hystrix" target="1.8" />
+      <module name="msg_Lucene_solr" target="1.8" />
+      <module name="msg_ribbon" target="1.8" />
+      <module name="msg_zuul" target="1.8" />
+      <module name="Redis" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

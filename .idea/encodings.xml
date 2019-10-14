@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/httpclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/json_news" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_Lucene_solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_dept1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_dept2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_eureka1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msg_zuul" charset="UTF-8" />
+  </component>
+</project>
